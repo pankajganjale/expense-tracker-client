@@ -1,0 +1,14 @@
+{
+  "auth": {
+    "signIn": {
+      "loginWith": "Login with:",
+      "phoneNo": "Phone No.",
+      "email": "Email",
+      "phone": "Phone",
+      "password": "Password",
+      "actions": {
+        "signIn": "Sign In"
+      }
+    }
+  }
+}

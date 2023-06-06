@@ -18,6 +18,10 @@
       "@/*": ["./src/*"],
       "@components": ["./src/components"],
       "@components/*": ["./src/components/*"],
+      "@constants": ["./src/constants"],
+      "@constants/*": ["./src/constants/*"],
+      "@store": ["./src/store"],
+      "@store/*": ["./src/store/*"],
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
