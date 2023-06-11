@@ -4,3 +4,11 @@ export interface ILoginInfo {
   email: string;
   password: string;
 }
+
+export interface ISocialButtonComponent {
+  icon: string;
+  iconAlt: string;
+  width: number;
+  height: number;
+  cls?: string;
+}
