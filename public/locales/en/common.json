@@ -1,4 +1,5 @@
 {
+  "title": "Expensify",
   "auth": {
     "signIn": {
       "loginWith": "Login with:",
@@ -6,8 +7,13 @@
       "email": "Email",
       "phone": "Phone",
       "password": "Password",
+      "or": "OR",
+      "continueWith": "Continue with:",
       "actions": {
-        "signIn": "Sign In"
+        "signIn": "Sign In",
+        "forgotPassword": "Forgot Password?",
+        "continueWithGoogle": "Continue with Google",
+        "continueWithApple": "Continue with Apple"
       }
     }
   }

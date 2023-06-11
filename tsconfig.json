@@ -16,6 +16,8 @@
     "incremental": true,
     "paths": {
       "@/*": ["./src/*"],
+      "@icons": ["./public/assets/icons"],
+      "@icons/*": ["./public/assets/icons/*"],
       "@components": ["./src/components"],
       "@components/*": ["./src/components/*"],
       "@constants": ["./src/constants"],
