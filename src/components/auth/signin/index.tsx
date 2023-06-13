@@ -32,8 +32,8 @@ const SignInComponent = () => {
   }
 
   return (
-    <main className="h-screen w-screen flex items-center justify-center bg-gray-300">
-      <div className="w-2/6 grid grid-cols-1 justify-items-center px-4 py-8 border-1 border-neutral-700 rounded-2xl shadow-xl bg-white">
+    <main className="h-screen w-screen flex items-center justify-center bg-gradient-to-r from-sky-100 to-indigo-100">
+      <div className="w-11/12 grid grid-cols-1 justify-items-center px-4 py-8 border-1 border-neutral-700 rounded-2xl shadow-xl bg-white 1sm:w-11/12 sm:w-9/12 md:w-8/12 lg:w-6/12 xl:w-4/12 2xl:w-4/12 3xl:w-3/12">
         <div className="flex items-center text-xl font-medium mb-4">
           <Image
             src={RupeeIcon}
