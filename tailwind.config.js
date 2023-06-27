@@ -9,10 +9,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'pista': '#b03969',
-        'pista-light': '#e5719f',
-        'c-m-blue': '#1f7374',
-        'c-l-blue': '#4fb5c9',
+        'color-bg': '#f6f6f6',
+        'color-primary': '#4461f2',
       }
       // backgroundImage: {
       //   'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
